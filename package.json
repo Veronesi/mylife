@@ -1,5 +1,8 @@
 {
   "name": "mylife",
+  "engine": {
+    "node": "^21.4.0"
+  },
   "type": "module",
   "version": "1.0.0",
   "description": "",
